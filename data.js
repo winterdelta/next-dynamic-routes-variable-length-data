@@ -11,6 +11,7 @@ export const people = [
     lives_saved: {
       1: 'hero',
       2: 'civilian',
+      3: 'robot',
     },
   },
   {
@@ -22,6 +23,10 @@ export const people = [
     skin_color: 'gold',
     eye_color: 'yellow',
     gender: 'n/a',
+    lives_saved: {
+      1: 'hero',
+      2: 'civilian',
+    },
   },
   {
     id: '3',
@@ -32,6 +37,10 @@ export const people = [
     skin_color: 'white, blue',
     eye_color: 'red',
     gender: 'n/a',
+    lives_saved: {
+      1: 'hero',
+      2: 'civilian',
+    },
   },
   {
     id: '4',
@@ -42,6 +51,10 @@ export const people = [
     skin_color: 'white',
     eye_color: 'yellow',
     gender: 'male',
+    lives_saved: {
+      1: 'hero',
+      2: 'civilian',
+    },
   },
   {
     id: '5',
@@ -52,6 +65,10 @@ export const people = [
     skin_color: 'light',
     eye_color: 'brown',
     gender: 'female',
+    lives_saved: {
+      1: 'hero',
+      2: 'civilian',
+    },
   },
   {
     id: '6',
@@ -62,6 +79,10 @@ export const people = [
     skin_color: 'light',
     eye_color: 'blue',
     gender: 'male',
+    lives_saved: {
+      1: 'hero',
+      2: 'civilian',
+    },
   },
   {
     id: '7',
@@ -72,6 +93,10 @@ export const people = [
     skin_color: 'light',
     eye_color: 'blue',
     gender: 'female',
+    lives_saved: {
+      1: 'hero',
+      2: 'civilian',
+    },
   },
   {
     id: '8',
@@ -82,6 +107,10 @@ export const people = [
     skin_color: 'white, red',
     eye_color: 'red',
     gender: 'n/a',
+    lives_saved: {
+      1: 'hero',
+      2: 'civilian',
+    },
   },
   {
     id: '9',
@@ -92,6 +121,10 @@ export const people = [
     skin_color: 'light',
     eye_color: 'brown',
     gender: 'male',
+    lives_saved: {
+      1: 'hero',
+      2: 'civilian',
+    },
   },
   {
     id: '10',
@@ -102,5 +135,9 @@ export const people = [
     skin_color: 'fair',
     eye_color: 'blue-gray',
     gender: 'male',
+    lives_saved: {
+      1: 'hero',
+      2: 'civilian',
+    },
   },
 ];
