@@ -8,11 +8,7 @@ export const people = [
     skin_color: 'fair',
     eye_color: 'blue',
     gender: 'male',
-    lives_saved: {
-      1: 'hero',
-      2: 'civilian',
-      3: 'robot',
-    },
+    lives_saved: [{ 1: 'hero' }, { 2: 'civilian' }, { 3: 'robot' }],
   },
   {
     id: '2',
